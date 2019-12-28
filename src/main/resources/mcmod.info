@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itmulti002",
+  "name": "Is This Multiplayer?",
+  "description": "Why are there players in Single Player? Did I just join a server? I'm confused.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "http://www.gatya.xyz/project/itmulti.html",
+  "updateUrl": "",
+  "authorList": ["Gatya"],
+  "credits": "Credits to Forge and FML Developers.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
